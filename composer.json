@@ -1,0 +1,16 @@
+{
+    "name": "lex10000/laravel-prune-database-table",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Alexey Vedernikov",
+            "email": "lex10000@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lex10000\\LaravelPruneDatabaseTable\\": ""
+        }
+    }
+}
